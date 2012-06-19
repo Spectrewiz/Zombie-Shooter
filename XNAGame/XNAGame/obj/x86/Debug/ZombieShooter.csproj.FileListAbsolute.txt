@@ -1,0 +1,15 @@
+C:\Users\Nelson\documents\visual studio 2010\Projects\XNAGame\XNAGame\XNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\gunner.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\Cursor.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\black.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\Bullet.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\HUD.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\HUDfont.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\floor.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\Wall1.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\Content\Sprites\Enemy.xnb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\ZombieShooter.exe
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\bin\x86\Debug\ZombieShooter.pdb
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\obj\x86\Debug\ZombieShooter.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\obj\x86\Debug\ZombieShooter.exe
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\XNAGame\XNAGame\XNAGame\obj\x86\Debug\ZombieShooter.pdb
