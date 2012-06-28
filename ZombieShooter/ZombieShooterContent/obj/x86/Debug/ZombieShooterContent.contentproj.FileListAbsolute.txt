@@ -1,0 +1,2 @@
+C:\Users\Nelson\documents\visual studio 2010\Projects\XNAGame\XNAGame\XNAGameContent\obj\x86\Debug\ZombieShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Nelson\Documents\Visual Studio 2010\Projects\ZombieShooter\ZombieShooter\ZombieShooterContent\obj\x86\Debug\ZombieShooterContent.contentprojResolveAssemblyReference.cache

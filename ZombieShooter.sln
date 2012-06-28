@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooter", "XNAGame\XNAGame\ZombieShooter.csproj", "{5CFAFD42-02A2-41DC-889E-8D10496C20ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooter", "ZombieShooter\ZombieShooter\ZombieShooter.csproj", "{5CFAFD42-02A2-41DC-889E-8D10496C20ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooterContent", "XNAGame\XNAGameContent\ZombieShooterContent.contentproj", "{E06FA70F-97CB-496F-A892-8F030F3B1BEA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieShooterContent", "ZombieShooter\ZombieShooterContent\ZombieShooterContent.contentproj", "{E06FA70F-97CB-496F-A892-8F030F3B1BEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

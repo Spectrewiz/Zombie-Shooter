@@ -1,0 +1,17 @@
+<Map>
+    <size width="1600" height="1600" />
+</Map>
+
+<Objects>
+    <obj class="Wall" x="736" y="765" size="1" />
+    <obj class="Wall" x="736" y="794" size="1" />
+    <obj class="Wall" x="736" y="823" size="1" />
+    <obj class="Wall" x="736" y="852" size="1" />
+    <obj class="Wall" x="872" y="765" size="1" />
+    <obj class="Wall" x="872" y="794" size="1" />
+    <obj class="Wall" x="872" y="823" size="1" />
+    <obj class="Wall" x="872" y="852" size="1" />
+    <obj class="Barricade" x="1072" y="1072" />
+    <obj class="Player" x="800" y="800" />
+    <obj class="Spawner" x="922" y="922" />
+</Objects>

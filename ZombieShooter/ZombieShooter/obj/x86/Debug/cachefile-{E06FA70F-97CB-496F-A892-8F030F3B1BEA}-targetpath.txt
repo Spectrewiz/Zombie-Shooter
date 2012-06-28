@@ -1,0 +1,12 @@
+Content\Sprites\gunner.xnb
+Content\Sprites\Cursor.xnb
+Content\Sprites\black.xnb
+Content\Sprites\Bullet.xnb
+Content\Sprites\HUD.xnb
+Content\Sprites\Wall1.xnb
+Content\Sprites\floor.xnb
+Content\Sprites\Enemy.xnb
+Content\Sprites\Player.xnb
+Content\Sprites\Barricade.xnb
+Content\HUDfont.xnb
+Content\MenuFont.xnb
